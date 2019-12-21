@@ -319,6 +319,7 @@ figure {
   @media screen and (max-width: 768px) {
     #fh5co-logo {
       width: 100%;
+      font-size: 14px;
       float: none;
       text-align: left; } }
   #fh5co-logo a {
